@@ -1,0 +1,14 @@
+{
+    "id": "eb0643ea-d29e-42be-8eea-e54dce5e3acc",
+    "modelName": "GMSound",
+    "mvc": "1.0",
+    "name": "mus_gameover",
+    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "bitDepth": 1,
+    "bitRate": 128,
+    "kind": 0,
+    "preload": false,
+    "sampleRate": 44100,
+    "type": 0,
+    "volume": 1
+}
