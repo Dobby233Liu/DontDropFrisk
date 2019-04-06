@@ -1,4 +1,6 @@
 draw_self()
+draw_set_font(fnt_simple)
+draw_text(room_width - (string_length("Score: " + string(points)) * 12), 0, "Score: " + string(points))
 paddleX = obj_longbone.x
 paddleWidth = obj_longbone.sprite_width
 if(x + dx > room_width-ballRadius || x + dx < ballRadius) {

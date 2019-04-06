@@ -135,14 +135,6 @@
             }
         },
         {
-            "Key": "3a64cd6f-ec80-4b7f-a6d0-a4702c9c154f",
-            "Value": {
-                "id": "a44acedc-eb83-4fa5-bcbc-270f18aa1966",
-                "resourcePath": "objects\\obj_edge\\obj_edge.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3a7fea1e-4e10-4d7d-8933-5f21ff25f583",
             "Value": {
                 "id": "8ce26141-cfba-446a-b283-41ce388519b9",
@@ -212,6 +204,14 @@
                 "id": "fe162c58-24e9-4f82-bfcc-0fdb0b164d91",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "83d9d548-a950-40cf-bafa-e8534d060104",
+            "Value": {
+                "id": "60e7eb30-c539-44af-a173-94377f9772d9",
+                "resourcePath": "fonts\\fnt_simple\\fnt_simple.yy",
+                "resourceType": "GMFont"
             }
         },
         {

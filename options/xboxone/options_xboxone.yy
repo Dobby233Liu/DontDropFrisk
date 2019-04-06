@@ -11,10 +11,10 @@
     "option_xbone_logo_background_colour": {
         "Value": 4282795590
     },
-    "option_xbone_logo_large": "${base_options_dir}\\xboxone\\logos\\Logo.png",
-    "option_xbone_logo_small": "${base_options_dir}\\xboxone\\logos\\SmallLogo.png",
-    "option_xbone_logo_store": "${base_options_dir}\\xboxone\\logos\\StoreLogo.png",
-    "option_xbone_logo_wide": "${base_options_dir}\\xboxone\\logos\\WideLogo.png",
+    "option_xbone_logo_large": "${options_dir}\\xboxone\\logos\\Logo.png",
+    "option_xbone_logo_small": "${options_dir}\\xboxone\\logos\\SmallLogo.png",
+    "option_xbone_logo_store": "${options_dir}\\xboxone\\logos\\StoreLogo.png",
+    "option_xbone_logo_wide": "${options_dir}\\xboxone\\logos\\WideLogo.png",
     "option_xbone_network_config_manifest": "",
     "option_xbone_product_id": "",
     "option_xbone_program_id": null,
